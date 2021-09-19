@@ -1,0 +1,3 @@
+[submodule "Data-sets"]
+	path = Data-sets
+	url = https://github.com/nkunwar30/PracticeStatistics.git
